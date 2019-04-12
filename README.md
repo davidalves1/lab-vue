@@ -1,5 +1,7 @@
 # lab-vue
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9994151-fbd7-420b-ad94-901811906fc5/deploy-status)](https://app.netlify.com/sites/lab-vue/deploys)
+
 ## Project setup
 ```
 yarn install
