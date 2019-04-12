@@ -1,1 +1,1 @@
-web: npm install && npm run build && npx nodemon server.js
+web: npm install && npm run build && npx nodemon index.js
