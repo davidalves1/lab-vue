@@ -1,1 +1,1 @@
-web: yarn && yarn build && npx nodemon index.js
+web: npm install && npm run build && node_modules/.bin/nodemon index.js
